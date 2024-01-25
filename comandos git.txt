@@ -11,7 +11,7 @@ clicar na pasta recem sincronizada
 na barra de endereço apagar tudo e digitar cmd apos o prompt de comando estar aberto para digitar 
 
 git init -> inicia o repositorio
-git add . -> adiciona todos os arquivos criados
-git commit -m  "comentario" -> adiciona um comentario para ser inserido no repositorio
-git push -> adiciona o arquivo criado ao repositorio
- 
+git add . -> adiciona todos os arquivos criados, compara os dois ,nuvem e pc 
+git commit -m  "comentario" -> adiciona um comentario para ser inserido no repositorio, salva basimente
+git push -> adiciona o arquivo criado ao repositorio, leva os arquivos pra nuvem
+git pull -> leva o arquivo da nuvem a pc 
